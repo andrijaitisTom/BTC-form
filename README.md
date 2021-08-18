@@ -1,0 +1,1 @@
+# React app that shows live BTC price in USD, GBP and EUR. Price is renewed every minute.
